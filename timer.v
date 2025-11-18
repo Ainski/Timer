@@ -1,4 +1,4 @@
-`timescale 1ns/1ps
+`timescale 1s/1s
 `define width 16
 module timer(
   input clk,

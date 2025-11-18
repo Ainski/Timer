@@ -30,6 +30,8 @@ endmodule
 ```
 ## 单纯正计时模式
 https://wavedrom.com/editor.html
+
+![alt text](wavedrom.png)
 ```ts
 {signal: [
 	//input
@@ -61,6 +63,7 @@ https://wavedrom.com/editor.html
 
 
 ## 设定正计时模式
+![alt text](wavedrom1.png)
 https://wavedrom.com/editor.html
 ```ts
 {signal: [
@@ -90,6 +93,8 @@ https://wavedrom.com/editor.html
 ```
 
 ## 设定倒计时模式
+![alt text](wavedrom2.png)
+
 https://wavedrom.com/editor.html
 ```ts
 {signal: [
@@ -119,6 +124,8 @@ https://wavedrom.com/editor.html
 ```
 
 ## 中断或重置模式
+![alt text](wavedrom3.png)
+
 https://wavedrom.com/editor.html
 ```ts
 {signal: [
